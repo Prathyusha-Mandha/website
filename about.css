@@ -1,0 +1,22 @@
+.a{
+    display: flex;
+}
+html{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    background-color: rgb(131, 236, 109);
+}
+img{
+    margin-top: 20px;
+    border: 2px solid black;
+}
+hr{
+    border: 2.5px solid black;
+}
+h2{
+    margin-left: 800px;
+}
+h1{
+    margin-top: -40px;
+}

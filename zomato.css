@@ -1,0 +1,30 @@
+.a{
+    margin-top: 10%;
+    border: 5px solid black;
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+img{
+    border:2px solid black;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+body{
+    background-color: aqua;
+}
+.c{
+    margin-left: 69%;
+    margin-top: -74px;
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: url(z.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.c{
+    margin-left: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    margin: auto;
+    margin-left: 42%;
+}
